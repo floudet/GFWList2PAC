@@ -29,9 +29,5 @@ Generate O(1) PAC file from gfwlist.
     and add a ban list which you want a direct connection into gfwlist2pac\resources\ban.txt
 
 
-fork from [clowwindy](https://github.com/clowwindy/gfwlist2pac)
-
-```
-contect mmgac001[at]gmail.com or comit issues if you have any idea
-```
+fork from [breakwa11](https://github.com/breakwa11/GFWList2PAC)
 
